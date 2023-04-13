@@ -1,0 +1,1 @@
+pyinstaller ./cam_reader.py --onefile
